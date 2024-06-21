@@ -1,2 +1,2 @@
 # JSCode
-Mi primer código de JavaScript.
+_Mi primer código de JavaScript._
