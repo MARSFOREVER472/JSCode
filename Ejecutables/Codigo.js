@@ -16,5 +16,5 @@ let saludo4 = 'encantado'; // CUARTO SALUDO.
 let saludo5 = 'buenos dias'; // QUINTO Y ÚLTIMO SALUDO.
 
 // DESPLIEGA EL NOMBRE MÁS UN SALUDO!!!!...
-document.write(nombre + saludo2);
+document.write(nombre);
 document.write(saludo2);
